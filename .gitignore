@@ -1,0 +1,7 @@
+# Local database credentials
+**/application-local.properties
+**/application-local.yml
+
+# Environment files
+.env
+.env.*
